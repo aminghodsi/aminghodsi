@@ -1,12 +1,9 @@
 loading..
 
-<img src="./assets/evangelion-rei.gif" width="10%">
-
 [████░░░░░░░░░░░░░░░░] 20%
 
-<h2>📊 GitHub Stats</h2>
-
 <p>
+  <img src="./assets/evangelion-rei.gif" width="20%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminghodsi&theme=vision_friendly_dark">
 </p>
 
