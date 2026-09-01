@@ -1,5 +1,3 @@
-loading..
-
 <p>
   <img src="./assets/evangelion-rei.gif" width="23%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminghodsi&theme=vision_friendly_dark">
