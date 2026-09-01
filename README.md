@@ -4,6 +4,9 @@ loading..
 
 [████░░░░░░░░░░░░░░░░] 20%
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminghodsi&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminghodsi&layout=compact&theme=dark)
 
 <!--
 **aminghodsi/aminghodsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
