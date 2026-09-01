@@ -7,9 +7,9 @@ loading..
 <h2>📊 GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aminghodsi&show_icons=true&theme=dark" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminghodsi&layout=compact&theme=dark" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminghodsi&theme=vision_friendly_dark">
 </p>
+
 
 <!--
 **aminghodsi/aminghodsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
