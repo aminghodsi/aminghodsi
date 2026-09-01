@@ -1,8 +1,9 @@
 loading..
 
-<img src="./assets/evangelion-rei.gif" width="10%">
-
-[████░░░░░░░░░░░░░░░░] 20%
+<p>
+  <img src="./assets/evangelion-rei.gif" width="20%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminghodsi&theme=vision_friendly_dark">
+</p>
 
 <!--
 **aminghodsi/aminghodsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
